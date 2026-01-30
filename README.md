@@ -3,6 +3,8 @@ Test: Learning git hub using Dr. DeFords lecture
 
 My favorite flavor is (*wouldn't you like to know*)
 
+text I added in the clone on my laptop
+
 # Title 1
 hi
 
